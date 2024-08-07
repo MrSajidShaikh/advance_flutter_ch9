@@ -1,16 +1,10 @@
-# advance_flutter_ch9
+# 9.1 Dummy Json API Calling
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/fadaa45a-cbf6-4189-bbfc-178f644a3e88" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/41e0487f-861b-4d74-86ba-4bfc27cdc29a" height=65% width=22%>
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+A recipe app with an API allows users to browse and manage various recipes effortlessly. The app provides an intuitive interface for viewing recipes, presenting detailed information such as ingredients, steps, and cooking time. The integrated API enables developers to access the recipe database programmatically, supporting functionalities like retrieving recipe details and managing user accounts. This API ensures smooth integration with other applications, enhancing user experience through personalized recommendations and streamlined meal planning.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/da8d361d-aaf7-4059-aa4a-53d26e7b93bf
